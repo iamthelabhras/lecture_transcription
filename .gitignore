@@ -1,0 +1,8 @@
+# Ignore these folders
+
+api_keys/
+node_modules/ 
+raw_transcripts/
+
+# Ignore these files
+.DS_Store
