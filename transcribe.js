@@ -18,7 +18,6 @@ const client = new speech.SpeechClient();
 
 // change gcsUri to whatever file I want to currently transcribe
 const gcsUri = "gs://lecture_audio/file_name_goes_here.mp3";
-//  const encoding = 'M4A';
 const encoding = "MP3";
 const sampleRateHertz = 16000;
 const languageCode = "en-US";
